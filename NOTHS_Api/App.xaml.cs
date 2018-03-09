@@ -5,6 +5,8 @@ using System.Data;
 using System.Linq;
 using System.Threading.Tasks;
 using System.Windows;
+using GalaSoft.MvvmLight.Ioc;
+using NOTHS_Api.ViewModel;
 
 namespace NOTHS_Api
 {
